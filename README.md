@@ -28,31 +28,16 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Soumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soum211524&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soum211524&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=soum211524&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
-### 🏆 Featured Project
-
-[![AI Chat Groq](https://github-readme-stats.vercel.app/api/pin/?username=soum211524&repo=ai-chat-groq&theme=tokyonight&hide_border=true)](https://github.com/soum211524/ai-chat-groq)
 
 ---
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadip-manna-95934630a/)
+
 
 ---
 
